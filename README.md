@@ -1,1 +1,1 @@
-# Semana-Tec-2024
+# Projeto-Semana-da-Tecnologia-2024-
