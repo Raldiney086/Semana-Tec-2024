@@ -100,22 +100,23 @@ img {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-#horarios table {
+#horarioss table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 30px;
 }
 
-#horarios table, th, td {
+
+#horarioss table, th, td {
     border: 1px solid #ccc;
 }
 
-#horarios th, td {
+#horarioss th, td {
     padding: 10px;
     text-align: center;
 }
 
-#horarios th {
+#horarioss th {
     background-color: #4CAF50;
     color: white;
 }
